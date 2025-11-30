@@ -1,0 +1,518 @@
+{
+  "minimax_wins": 100,
+  "random_wins": 0,
+  "draws": 0,
+  "invalid": 0,
+  "timeout": 0,
+  "total_moves": 930,
+  "game_details": [
+    {
+      "game": 1,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 2,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 3,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 4,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 5,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 6,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 7,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 8,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 9,
+      "winner": "x",
+      "moves": 13
+    },
+    {
+      "game": 10,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 11,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 12,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 13,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 14,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 15,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 16,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 17,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 18,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 19,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 20,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 21,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 22,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 23,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 24,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 25,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 26,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 27,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 28,
+      "winner": "x",
+      "moves": 13
+    },
+    {
+      "game": 29,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 30,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 31,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 32,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 33,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 34,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 35,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 36,
+      "winner": "x",
+      "moves": 13
+    },
+    {
+      "game": 37,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 38,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 39,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 40,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 41,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 42,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 43,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 44,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 45,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 46,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 47,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 48,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 49,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 50,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 51,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 52,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 53,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 54,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 55,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 56,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 57,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 58,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 59,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 60,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 61,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 62,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 63,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 64,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 65,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 66,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 67,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 68,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 69,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 70,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 71,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 72,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 73,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 74,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 75,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 76,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 77,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 78,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 79,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 80,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 81,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 82,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 83,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 84,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 85,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 86,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 87,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 88,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 89,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 90,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 91,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 92,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 93,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 94,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 95,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 96,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 97,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 98,
+      "winner": "x",
+      "moves": 11
+    },
+    {
+      "game": 99,
+      "winner": "x",
+      "moves": 9
+    },
+    {
+      "game": 100,
+      "winner": "x",
+      "moves": 11
+    }
+  ],
+  "summary": {
+    "test_name": "Standard Test: Minimax vs Random",
+    "num_games": 100,
+    "minimax_win_rate": 100.0,
+    "elapsed_time": 128.20108580589294,
+    "avg_moves": 9.3,
+    "timestamp": "2025-11-30T18:09:39.331009"
+  }
+}
